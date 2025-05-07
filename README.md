@@ -32,7 +32,7 @@ To explore the sales data and uncover actionable insights related to customer pr
 | File/Link | Description |
 |-----------|-------------|
 | [📊 Excel Dashboard](https://github.com/KomalSharma0/F-P-Sales-Analysis/blob/main/F%26P%20Sales%20Dashboard.xlsx) | Final workbook with all analysis and visuals |
-| [📝 Executive Summary (PDF)](https://github.com/KomalSharma0/F-P-Sales-Analysis/blob/main/Executive_Summary.pdf) | Concise 2-page overview of insights and recommendations |
+| [📝 Executive Summary (Pdf)](https://github.com/KomalSharma0/F-P-Sales-Analysis/blob/main/Executive_Summary.pdf) | Concise 2-page overview of insights and recommendations |
 | [📽️ Presentation (Pdf)](https://github.com/KomalSharma0/F-P-Sales-Analysis/blob/main/Presentation.pdf) | Storytelling format of the findings |
 | [🎥 Presentation Video](https://www.linkedin.com/posts/komalsharma-insights_excel-dataanalytics-salesanalysis-activity-7316690090615848960-KtNu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEC6RzkBFwFC9OsTNQE67xvf1nxZbpf_05Y) | Project showcase and key takeaways |
 | [📁 Dataset](https://github.com/KomalSharma0/F-P-Sales-Analysis/tree/main/Dataset) | Cleaned raw sales dataset used in analysis |
